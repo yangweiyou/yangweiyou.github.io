@@ -1,11 +1,8 @@
 ## Yangwei You ([Curriculum Vitae](yangweiyou.github.io/cv/yangwei_cv.pdf))
 
 ### Basic information
-- **Citizen**: Chinese
-- **Birthday**: 14 November, 1989
 - **Address**: Via Morego 30, 16163, Genova, Italy
-- **Phone**: +39 392 5885454
-- **Email**: [yangwei_you@126.com](mailto:yangwei_you@126.com)
+- **Email**: [yangwei.you@iit.it](mailto:yangwei.you@iit.it)
 
 ### Education
 - **Istituto Italiano di Tecnologia - Ph.D.**
