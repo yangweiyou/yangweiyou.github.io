@@ -19,6 +19,7 @@
     - Period: 2007.08-2011.07 
     - Place: Harbin, China
     - Major: Mechanical Design, Manufacture and Automation.
+
 ### Projects
 + **Locomotion Control for Humanoid Robot WALKMAN**
     - Period: _Nov. 2014-Current_
