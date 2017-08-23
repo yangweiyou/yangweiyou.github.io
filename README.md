@@ -6,7 +6,7 @@ During my Master and Ph.D. period, I focused on the controlling of dynamical leg
 - **Birthday**: 14 November, 1989
 - **Address**: Via Morego 30, 16163, Genova, Italy
 - **Phone**: +39 392 5885454
-- **email**: [yangwei_you@126.com](yangwei_you@126.com)
+- **Email**: [yangwei_you@126.com](mailto:yangwei_you@126.com)
 
 ### Education
 - **Istituto Italiano di Tecnologia - Ph.D.**
