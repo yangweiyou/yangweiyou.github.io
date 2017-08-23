@@ -3,9 +3,13 @@ During my Master and Ph.D. period, I focused on the controlling of dynamical leg
 
 ### Basic information
 Citizen: Chinese
+
 Place and Date of Birth: Jiangxi, China | 14 November 1989
+
 Address: Via Morego 30, 16163, Genova, Italy
+
 Phone: +39 392 5885454
+
 email: [yangwei_you@126.com](yangwei_you@126.com)
 
 ### Education
