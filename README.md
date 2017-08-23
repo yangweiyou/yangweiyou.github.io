@@ -1,37 +1,16 @@
 ## Yangwei You
+![photo]
+During my Master and Ph.D. period, I focused on the controlling of dynamical legged robots. The main concern of this is to stabilize the walking or running of legged robots under the real-time requirement of online motion planning. Another key point is to utilize whole body dynamics to regulate the interaction between the feet and ground. My research on this involves optimization-based torque control and online planning. I believe these are also essential characteristics for robots to get out of laboratories, factories and come to our everyday life. I wish I can keep on staying in this area and witness the coming of smart robots. [Curriculum Vitae]
 
-You can use the [editor on GitHub](https://github.com/yangweiyou/yangweiyou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 2014.11-current **Istituto Italiano di Tecnologia**, Italy
+Research Line: Humanoids and Human Centered Mechatronics Ph.D.
 
-### Markdown
+- 2011.08-2013.07 **Harbin Institute of Technology**, China
+Major: Mechatronic Engineering in State Key Robotics Institute Master
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 2007.08-2011.07 **Harbin Institute of Technology**, China
+Major: Mechanical Design, Manufacture and Automation
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yangweiyou/yangweiyou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Projects
