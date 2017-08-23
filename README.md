@@ -6,7 +6,7 @@ During my Master and Ph.D. period, I focused on the controlling of dynamical leg
 - **Email**: [yangwei.you@iit.it](mailto:yangwei.you@iit.it)
 
 ### Education
-- [**Istituto Italiano di Tecnologia - Ph.D.**](www.iit.it)
+- [**Istituto Italiano di Tecnologia - Ph.D.**](https://www.iit.it)
     - Period: 2014.11-current
     - Place: Genoa, Italy
     - Research Line: Humanoids and Human Centered Mechatronics.
