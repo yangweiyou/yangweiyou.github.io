@@ -1,6 +1,6 @@
 ## Yangwei You ([Curriculum Vitae](yangweiyou.github.io/cv/yangwei_cv.pdf))
 
-### Contact information
+### Contacts
 - **Address**: Via Morego 30, 16163, Genova, Italy
 - **Email**: [yangwei.you@iit.it](mailto:yangwei.you@iit.it)
 
