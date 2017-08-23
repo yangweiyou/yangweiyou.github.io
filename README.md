@@ -9,16 +9,19 @@ During my Master and Ph.D. period, I focused on the controlling of dynamical leg
 - **email**: [yangwei_you@126.com](yangwei_you@126.com)
 
 ### Education
-- _2014.11-current_ **Istituto Italiano di Tecnologia**, **Ph.D.**, _Italy_
-
+- **Istituto Italiano di Tecnologia - Ph.D.**
+  Period: 2014.11-current
+  Place: Genoa, Italy
   Research Line: Humanoids and Human Centered Mechatronics.
 
-- _2011.08-2013.07_ **Harbin Institute of Technology**, **Master**, _China_
-
+- **Harbin Institute of Technology - Master**,
+  Period: 2011.08-2013.07
+  Place: Harbin, China
   Major: Mechatronic Engineering in State Key Robotics Institute Master.
 
-- _2007.08-2011.07_ **Harbin Institute of Technology**, **Bachelor**, _China_
-
+- **Harbin Institute of Technology - Bachelor**
+  Period: 2007.08-2011.07 
+  Place: Harbin, China
   Major: Mechanical Design, Manufacture and Automation.
 
 ### Projects
