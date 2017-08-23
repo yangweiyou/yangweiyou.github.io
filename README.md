@@ -5,15 +5,15 @@
 - **Email**: [yangwei.you@iit.it](mailto:yangwei.you@iit.it)
 
 ### Education
-- **Istituto Italiano di Tecnologia - Ph.D.**
+- [**Istituto Italiano di Tecnologia - Ph.D.**](http:www.iit.it)
     - Period: 2014.11-current
     - Place: Genoa, Italy
     - Research Line: Humanoids and Human Centered Mechatronics.
-- **Harbin Institute of Technology - Master**,
+- [**Harbin Institute of Technology - Master**](http://www.hit.edu.cn/)
     - Period: 2011.08-2013.07
     - Place: Harbin, China
-    - Major: Mechatronic Engineering in State Key Robotics Institute Master.
-- **Harbin Institute of Technology - Bachelor**
+    - Major: Mechatronic Engineering in [State Key Robotics Institute](http://robot.hit.edu.cn/).
+- [**Harbin Institute of Technology - Bachelor**](http://www.hit.edu.cn/)
     - Period: 2007.08-2011.07 
     - Place: Harbin, China
     - Major: Mechanical Design, Manufacture and Automation.
