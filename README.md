@@ -1,5 +1,5 @@
 ## Yangwei You ([Curriculum Vitae](yangweiyou.github.io/cv/yangwei_cv.pdf))
-==========================
+
 ### Basic information
 - **Citizen**: Chinese
 - **Birthday**: 14 November, 1989
