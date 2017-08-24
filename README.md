@@ -1,4 +1,4 @@
-## Yangwei You ([Curriculum Vitae](yangweiyou.github.io/cv/yangwei_cv.pdf))
+## Yangwei You ([Curriculum Vitae](https://www.dropbox.com/s/ggw7dk1ikh1464f/cv.pdf?dl=0)
 
 ### Contacts
 - **Address**: Via Morego 30, 16163, Genova, Italy
