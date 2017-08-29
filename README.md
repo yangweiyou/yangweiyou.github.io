@@ -22,7 +22,7 @@
 + **Locomotion Control for Humanoid Robot WALKMAN** [[video](https://www.youtube.com/watch?v=qqmxTru05zQ&list=PLy-1ge_QAtREvXLa-rlM1kwaPhz0Qjdqx)]
     - Period: _Nov. 2014-Current_
     - Description: Ph.D. thesis in Istituto Italiano di Tecnologia. Focused on optimization-based high-level trajectory planning and low-level torque control on the whole-body humanoid robot as part of [FP7 European project WALK-MAN](https://www.walk-man.eu/).
-+ **Control Software Development for Cooky Robot Arms of MROBOT Ltd** [[website](www.mrobot.cn)]
++ **Control Software Development for Cooky Robot Arms of MROBOT Ltd** [[website](http://m.mrobot.cn/)]
     - Period: _Mar. 2017-Sept. 2017_ 
     - Description: A short-term working package for the robot arm development of MROBOT Ltd. Based on ROS, developed a uniform control platform to perform simulation in Gazebo and run experiments on real robots with easy switch.
 + **Design Engineer in Sensata Technoloyies** [[website](http://www.sensata.com/)]
