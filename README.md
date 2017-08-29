@@ -5,15 +5,15 @@
 - **Email**: [yangwei.you@iit.it](mailto:yangwei.you@iit.it)
 
 ### Education
-- **Istituto Italiano di Tecnologia** [website](http://www.iit.it) **- Ph.D.**
+- **Istituto Italiano di Tecnologia** [[website](http://www.iit.it)] **- Ph.D.**
     - Period: 2014.11-current
     - Place: Genoa, Italy
     - Research Line: Humanoids and Human Centered Mechatronics.
-- **Harbin Institute of Technology** [website](http://www.hit.edu.cn/) **- Master**
+- **Harbin Institute of Technology** [[website](http://www.hit.edu.cn/)] **- Master**
     - Period: 2011.08-2013.07
     - Place: Harbin, China
-    - Major: Mechatronic Engineering in State Key Robotics Institute [website](http://robot.hit.edu.cn/).
-- **Harbin Institute of Technology** [website](http://www.hit.edu.cn/) **- Bachelor**
+    - Major: Mechatronic Engineering in State Key Robotics Institute [[website](http://robot.hit.edu.cn/)].
+- **Harbin Institute of Technology** [[website](http://www.hit.edu.cn/)] **- Bachelor**
     - Period: 2007.08-2011.07 
     - Place: Harbin, China
     - Major: Mechanical Design, Manufacture and Automation.
@@ -40,3 +40,6 @@
 + **Design of Portable and Multi-functional Rescue Instrument**
     - Period: _Sept. 2009-Sept. 2010_ 
     - Description: Won national first prize in the fourth national undergraduate mechanical innovative design competition with “portable and multifunctional rescue instrument” as team leader.
+
+
+### Publications [[google scholar](https://scholar.google.com/citations?hl=en&user=Vge9cxEAAAAJ)]
