@@ -5,21 +5,21 @@
 - **Email**: [yangwei.you@iit.it](mailto:yangwei.you@iit.it)
 
 ### Education
-- [**Istituto Italiano di Tecnologia**](http://www.iit.it) **- Ph.D.**
+- **Istituto Italiano di Tecnologia** [website](http://www.iit.it) **- Ph.D.**
     - Period: 2014.11-current
     - Place: Genoa, Italy
     - Research Line: Humanoids and Human Centered Mechatronics.
-- [**Harbin Institute of Technology**](http://www.hit.edu.cn/) **- Master**
+- **Harbin Institute of Technology** [website](http://www.hit.edu.cn/) **- Master**
     - Period: 2011.08-2013.07
     - Place: Harbin, China
-    - Major: Mechatronic Engineering in [State Key Robotics Institute](http://robot.hit.edu.cn/).
-- [**Harbin Institute of Technology**](http://www.hit.edu.cn/) **- Bachelor**
+    - Major: Mechatronic Engineering in State Key Robotics Institute [website](http://robot.hit.edu.cn/).
+- **Harbin Institute of Technology** [website](http://www.hit.edu.cn/) **- Bachelor**
     - Period: 2007.08-2011.07 
     - Place: Harbin, China
     - Major: Mechanical Design, Manufacture and Automation.
 
 ### Projects
-+ **Locomotion Control for Humanoid Robot WALKMAN**[[video](https://www.youtube.com/watch?v=qqmxTru05zQ&list=PLy-1ge_QAtREvXLa-rlM1kwaPhz0Qjdqx)]
++ **Locomotion Control for Humanoid Robot WALKMAN** [[video](https://www.youtube.com/watch?v=qqmxTru05zQ&list=PLy-1ge_QAtREvXLa-rlM1kwaPhz0Qjdqx)]
     - Period: _Nov. 2014-Current_
     - Description: Ph.D. thesis in Istituto Italiano di Tecnologia. Focused on optimization-based high-level trajectory planning and low-level torque control on the whole-body humanoid robot as part of FP7 European project WALK-MAN.
 + **Control Software Development for Cooky Robot Arms of MROBOT Ltd**
