@@ -1,6 +1,7 @@
-## Yangwei You ([Curriculum Vitae](yangweiyou.github.io/doc/yangwei_cv.pdf))
+## [Curriculum Vitae](yangweiyou.github.io/doc/yangwei_cv.pdf)
+During my Master and Ph.D. period, I focused on the controlling of dynamical legged robots. The main concern of this is to stabilize the walking or running of legged robots under the real-time requirement of online motion planning. Another key point is to utilize whole body dynamics to regulate the interaction between the feet and ground. My research on this involves optimization-based torque control and online planning. I believe these are also essential characteristics for robots to get out of laboratories, factories and come to our everyday life. I wish I can keep on staying in this area and witness the coming of smart robots.
 
-### Contacts
+### Connect
 - **Address**: Via Morego 30, 16163, Genova, Italy
 - **Email**: [yangwei.you@iit.it](mailto:yangwei.you@iit.it)
 
