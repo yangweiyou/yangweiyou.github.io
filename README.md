@@ -6,7 +6,7 @@ During my Master and Ph.D. period, I focused on the controlling of dynamical leg
 
   [<img src="yangweiyou.github.io/pic/linkedin_logo.png" height="30">](https://www.linkedin.com/in/yangwei-you/) 
 [<img src="yangweiyou.github.io/pic/gitlab_logo.png" height="30">](https://gitlab.com/yangwei_you) 
-[<img src="yangweiyou.github.io/pic/googlescholar_logo.png" height="35">](https://scholar.google.com/citations?hl=en&user=Vge9cxEAAAAJ)
+[<img src="yangweiyou.github.io/pic/googlescholar_logo.png" height="40">](https://scholar.google.com/citations?hl=en&user=Vge9cxEAAAAJ)
 
 ### Education
 - **Istituto Italiano di Tecnologia** [[website](http://www.iit.it)] **- Ph.D.**
