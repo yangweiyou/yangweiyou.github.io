@@ -3,7 +3,7 @@ During my Master and Ph.D. period, I focused on the controlling of dynamical leg
 ### Contact
 - **Address**: Via Morego 30, 16163, Genova, Italy
 - **Email**: [yangwei.you@iit.it](mailto:yangwei.you@iit.it)
-- <img src="yangweiyou.github.io/pic/linkedin.jpg" width="10">
+- [<img src="yangweiyou.github.io/pic/linkedin.jpg" width="30">](https://www.linkedin.com/in/yangwei-you/)
 
 ### Education
 - **Istituto Italiano di Tecnologia** [[website](http://www.iit.it)] **- Ph.D.**
