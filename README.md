@@ -7,16 +7,13 @@ During my Master and Ph.D. period, I focused on the controlling of dynamical leg
 
 ### Education
 - **Istituto Italiano di Tecnologia** [[website](http://www.iit.it)] **- Ph.D.**
-    - Period: 2014.11-current
-    - Place: Genoa, Italy
+    - Period and place: 2014.11-current, Genoa, Italy
     - Research Line: Humanoids and Human Centered Mechatronics.
 - **Harbin Institute of Technology** [[website](http://www.hit.edu.cn/)] **- Master**
-    - Period: 2011.08-2013.07
-    - Place: Harbin, China
+    - Period and place: 2011.08-2013.07, Harbin, China
     - Major: Mechatronic Engineering in [State Key Robotics Institute](http://robot.hit.edu.cn/).
 - **Harbin Institute of Technology** [[website](http://www.hit.edu.cn/)] **- Bachelor**
-    - Period: 2007.08-2011.07 
-    - Place: Harbin, China
+    - Period and place: 2007.08-2011.07, Harbin, China
     - Major: Mechanical Design, Manufacture and Automation.
 
 ### Projects
