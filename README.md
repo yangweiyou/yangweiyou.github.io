@@ -30,7 +30,7 @@ During my Master and Ph.D. period, I focused on the controlling of dynamical leg
 + **Control Method Study of Stable Quadruped Trot Running**
     - Period: _July 2011-July 2013_ 
     - Description: Master thesis subordinated to the national 863 project of China. A combined simulation platform of ADAMS and MATLAB was built for a 3D quadruped robot. Different control strategies were investigated to realize stable running of quadruped robots.
-+ **Design and Manufacture of Contact Resistance Measuring Instrument**
++ **Design and Manufacture of Contact Resistance Measuring Instrument**[[picture](yangweiyou.github.io/pic/contact.jpg)]
     - Period: _June 2012-Oct. 2012_ 
     - Description: A delicate fixture and a 3-axis motion platform were built to automatically measure the contact resistance between electrical contacts with static contact force control accuracy +0.005N and position control accuracy 0.1mm.
 + **Software Development for Vitesse2 Microwave Oven of Whirlpool Ltd** [[website](https://www.whirlpool.com/)]
