@@ -29,16 +29,16 @@ During my Master and Ph.D. period, I focused on the controlling of dynamical leg
 + **Design Engineer in Sensata Technoloyies** [[website](http://www.sensata.com/)]
     - Period: _July 2013-Nov. 2014_ 
     - Description: Worked as a design engineer in an American Company ”Sensata Technologies” in China mainland, mainly in charge of the design of automotive pressure transducer.
-+ **Control Method Study of Stable Quadruped Trot Running**
++ **Control Method Study of Stable Quadruped Trot Running** [[video](https://www.youtube.com/watch?v=a6zBN_X7rLo&list=PLy-1ge_QAtRFfQQ5pfZ25TBRNqS7a1AAR&index=1)] [[picture](yangweiyou.github.io/pic/our_dog.jpg)]
     - Period: _July 2011-July 2013_ 
     - Description: Master thesis subordinated to the national 863 project of China. A combined simulation platform of ADAMS and MATLAB was built for a 3D quadruped robot. Different control strategies were investigated to realize stable running of quadruped robots.
-+ **Design and Manufacture of Contact Resistance Measuring Instrument** [[picture](yangweiyou.github.io/pic/contact.jpg)]
++ **Design and Manufacture of Contact Resistance Measuring Instrument** [[picture](yangweiyou.github.io/pic/contact.png)]
     - Period: _June 2012-Oct. 2012_ 
     - Description: A delicate fixture and a 3-axis motion platform were built to automatically measure the contact resistance between electrical contacts with static contact force control accuracy +0.005N and position control accuracy 0.1mm.
-+ **Software Development for Vitesse2 Microwave Oven of Whirlpool Ltd** [[website](https://www.whirlpool.com/)]
++ **Software Development for Vitesse2 Microwave Oven of Whirlpool Ltd** [[website](https://www.whirlpool.com/)] [[picture](yangweiyou.github.io/pic/whirlpool.png)]
     - Period: _Oct. 2010-June 2011_ 
     - Description: Bachelor thesis as a University and Whirlpool Joint R&D project. A synthetical control program, running in STM8 micro-controller, was developed successfully for the whole Vitesse2 microwave oven series, one software for different specifications.
-+ **Design of Portable and Multi-functional Rescue Instrument**
++ **Design of Portable and Multi-functional Rescue Instrument**  [[picture](yangweiyou.github.io/pic/rescuer.pdf)]
     - Period: _Sept. 2009-Sept. 2010_ 
     - Description: Won national first prize in the fourth national undergraduate mechanical innovative design competition with “portable and multifunctional rescue instrument” as team leader.
 
