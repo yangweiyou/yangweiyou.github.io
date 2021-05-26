@@ -1,10 +1,9 @@
 
-During my Master and Ph.D. period, I focused on the controlling of dynamical legged robots. The main concern of this is to stabilize the walking or running of legged robots under the real-time requirement of online motion planning. Another key point is to utilize whole body dynamics to regulate the interaction between the feet and ground. My research on this involves optimization-based torque control and online planning. I believe these are also essential characteristics for robots to get out of laboratories, factories and come to our everyday life. I wish I can keep on staying in this area and witness the coming of smart robots [[Curriculum Vitae](yangweiyou.github.io/doc/yangwei_cv.pdf)].
+During my Master and Ph.D. period, I focused on the controlling of dynamical legged robots. The main concern of this is to stabilize the walking or running of legged robots under the real-time requirement of online motion planning. Another key point is to utilize whole body dynamics to regulate the interaction between the feet and ground. My research on this involves optimization-based torque control and online planning. I believe these are also essential characteristics for robots to get out of laboratories, factories and come to our everyday life. I cannot wait to witness the coming of smart robots [[Curriculum Vitae](yangweiyou.github.io/doc/yangwei_cv.pdf)].
 
 ### Contact
-- **Address**: Via Morego 30, 16163, Genova, Italy
-- **Email**: [yangwei.you@iit.it](mailto:yangwei.you@iit.it)
-- **HomePage**: [http://www.iit.it/people/yangwei-you](http://www.iit.it/people/yangwei-you)
+- **Address**: 23 Ghim Moh Link, 231023, Singapore
+- **Email**: [yangwei.you@foxmail.com](mailto:yangwei.you@foxmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/yangwei-you/](https://www.linkedin.com/in/yangwei-you/)
 - **GitLab**: [https://gitlab.com/yangwei_you/](https://gitlab.com/yangwei_you/)
 - **ResearchGate**:[https://www.researchgate.net/profile/Yangwei_You](https://www.researchgate.net/profile/Yangwei_You)
